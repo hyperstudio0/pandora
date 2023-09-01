@@ -1,0 +1,21 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/main/page": "app/main/page.js",
+  "/main/complete/page": "app/main/complete/page.js",
+  "/components/page": "app/components/page.js",
+  "/components/animate/page": "app/components/animate/page.js",
+  "/components/icons/page": "app/components/icons/page.js",
+  "/components/carousel/page": "app/components/carousel/page.js",
+  "/components/form-validation/page": "app/components/form-validation/page.js",
+  "/components/count-up/page": "app/components/count-up/page.js",
+  "/components/label/page": "app/components/label/page.js",
+  "/components/markdown/page": "app/components/markdown/page.js",
+  "/components/mega-menu/page": "app/components/mega-menu/page.js",
+  "/components/image/page": "app/components/image/page.js",
+  "/components/navigation-bar/page": "app/components/navigation-bar/page.js",
+  "/components/scroll/page": "app/components/scroll/page.js",
+  "/components/player/page": "app/components/player/page.js",
+  "/components/lightbox/page": "app/components/lightbox/page.js",
+  "/components/text-max-line/page": "app/components/text-max-line/page.js"
+}
