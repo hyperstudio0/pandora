@@ -1,0 +1,19 @@
+{
+  "mint": {
+    "owner": "xpla15xr2jydh9smxpx9nalgpfvl228xk453k7tqhsz",
+    "amount": 1,
+    "token_id": "PDR #5",
+    "extension": {
+      "name": "XPLA Food 1",
+      "description": "This is an example of XPLA’s Pandora Protocol item.",
+      "image": "https://nv-imge-s3.s3.ap-northeast-2.amazonaws.com/pandora/image04.svg",
+      "attributes": [
+        {
+          "value": "25",
+          "trait_type": "Instant Health Recovery"
+        }
+      ]
+    },
+    "recipient": "xpla15xr2jydh9smxpx9nalgpfvl228x"
+  }
+}

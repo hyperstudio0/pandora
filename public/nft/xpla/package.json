@@ -1,0 +1,17 @@
+{
+  "name": "xpla",
+  "version": "1.0.0",
+  "description": "### 게임 아이템 Contract : xpla10ass0huls9u5rctnyhzvh5jg48qsg7cdfxw34juxd3js05fahraq87c7c7",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xpla/xpla.js": "^1.3.2",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+/Users/chonglyechang/Documents/Works/products/pandora/public/nft/xpla/nft_contract/target/wasm32-unknown-unknown/release/libhyperx_pandora_nft_contract.rlib: /Users/chonglyechang/Documents/Works/products/pandora/public/nft/xpla/nft_contract/src/lib.rs

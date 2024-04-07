@@ -1,0 +1,27 @@
+{
+  "mint": {
+    "owner": "xpla15xr2jydh9smxpx9nalgpfvl228xk453k7tqhsz",
+    "amount": 1,
+    "token_id": "PDR #2",
+    "extension": {
+      "name": "XPLA Weapon 1",
+      "description": "This is an example of XPLA’s Pandora Protocol item.",
+      "image": "https://nv-imge-s3.s3.ap-northeast-2.amazonaws.com/pandora/image01.svg",
+      "attributes": [
+        {
+          "value": "75",
+          "trait_type": "Attack"
+        },
+        {
+          "value": "50",
+          "trait_type": "Durability"
+        },
+        {
+          "value": "5",
+          "trait_type": "Weight"
+        }
+      ]
+    },
+    "recipient": "xpla15xr2jydh9smxpx9nalgpfvl228x"
+  }
+}

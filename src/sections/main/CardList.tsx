@@ -1,12 +1,18 @@
-import { Box, Typography } from '@mui/material';
+import {Box, Typography} from '@mui/material';
 import EcommerceProductViewGridItem from '../_ecommerce/product/item/ecommerce-product-view-grid-item';
+import React from "react";
+import XPLADataBody from "./XPLADataBody";
+import OasysDataBody from "./OasysDataBody";
 
 type Props = {
   data?: any;
+  type?: 'XPLA' | 'OASYS' | 'MATIC' | 'ETH';
 };
 
-export default function CardList({ data }: Props) {
-  return data ? (
+export default function CardList({ data, type }: Props) {
+
+
+  const dataComponent = data ? (
     <Box
       rowGap={4}
       columnGap={3}
@@ -33,4 +39,9 @@ export default function CardList({ data }: Props) {
       <Typography variant="h6">No Data</Typography>
     </Box>
   );
+
+  return <>
+      {type === 'OASYS' && <OasysDataBody />}
+      {type === 'XPLA' && <XPLADataBody />}
+  </>
 }

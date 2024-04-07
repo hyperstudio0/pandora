@@ -51,6 +51,9 @@ type Props = {
 export default function RootLayout({children}: Props) {
     return (
         <html lang="en" className={primaryFont.className}>
+        <head>
+            <meta name="xpla-wallet"/>
+        </head>
         <body>
         <LocalizationProvider>
             <SettingsProvider

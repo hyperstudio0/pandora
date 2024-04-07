@@ -1,1 +1,368 @@
-{"ssrModuleMapping":{"2353":{"*":{"id":"88709","name":"*","chunks":[],"async":false}},"5840":{"*":{"id":"70947","name":"*","chunks":[],"async":false}},"7617":{"*":{"id":"44737","name":"*","chunks":[],"async":false}},"9266":{"*":{"id":"99250","name":"*","chunks":[],"async":false}},"13396":{"*":{"id":"54584","name":"*","chunks":[],"async":false}},"14393":{"*":{"id":"99741","name":"*","chunks":[],"async":false}},"15164":{"*":{"id":"8763","name":"*","chunks":[],"async":false}},"17209":{"*":{"id":"87944","name":"*","chunks":[],"async":false}},"17617":{"*":{"id":"6855","name":"*","chunks":[],"async":false}},"21276":{"*":{"id":"38246","name":"*","chunks":[],"async":false}},"22434":{"*":{"id":"38302","name":"*","chunks":[],"async":false}},"27186":{"*":{"id":"40792","name":"*","chunks":[],"async":false}},"32386":{"*":{"id":"80311","name":"*","chunks":[],"async":false}},"37384":{"*":{"id":"63305","name":"*","chunks":[],"async":false}},"40159":{"*":{"id":"133","name":"*","chunks":[],"async":false}},"40672":{"*":{"id":"89592","name":"*","chunks":[],"async":false}},"47330":{"*":{"id":"47734","name":"*","chunks":[],"async":false}},"48042":{"*":{"id":"58282","name":"*","chunks":[],"async":false}},"49180":{"*":{"id":"62698","name":"*","chunks":[],"async":false}},"49473":{"*":{"id":"94355","name":"*","chunks":[],"async":false}},"52419":{"*":{"id":"94985","name":"*","chunks":[],"async":false}},"58531":{"*":{"id":"29150","name":"*","chunks":[],"async":false}},"59739":{"*":{"id":"4610","name":"*","chunks":[],"async":false}},"61292":{"*":{"id":"74088","name":"*","chunks":[],"async":false}},"62285":{"*":{"id":"70947","name":"*","chunks":[],"async":false}},"63225":{"*":{"id":"68276","name":"*","chunks":[],"async":false}},"69373":{"*":{"id":"99082","name":"*","chunks":[],"async":false}},"73003":{"*":{"id":"51409","name":"*","chunks":[],"async":false}},"78609":{"*":{"id":"57870","name":"*","chunks":[],"async":false}},"79048":{"*":{"id":"73729","name":"*","chunks":[],"async":false}},"79539":{"*":{"id":"17590","name":"*","chunks":[],"async":false}},"83998":{"*":{"id":"1903","name":"*","chunks":[],"async":false}},"84529":{"*":{"id":"30332","name":"*","chunks":[],"async":false}},"86544":{"*":{"id":"34998","name":"*","chunks":[],"async":false}},"91614":{"*":{"id":"51280","name":"*","chunks":[],"async":false}},"92306":{"*":{"id":"7833","name":"*","chunks":[],"async":false}},"97286":{"*":{"id":"63755","name":"*","chunks":[],"async":false}}},"edgeSSRModuleMapping":{},"clientModules":{"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/client/components/error-boundary.js":{"id":47330,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":47330,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/client/components/app-router.js":{"id":2353,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/esm/client/components/app-router.js":{"id":2353,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/client/components/layout-router.js":{"id":49180,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/esm/client/components/layout-router.js":{"id":49180,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/client/components/render-from-template-context.js":{"id":92306,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":92306,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js":{"id":58531,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js":{"id":58531,"name":"*","chunks":["2272:static/chunks/webpack-dd013c2101e38d4b.js","9253:static/chunks/bce60fc1-a5fb76d0e71d2255.js","7698:static/chunks/7698-9cbbf063eb4cfcd8.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Noto_Sans\",\"arguments\":[{\"weight\":[\"100\",\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\",\"subsets\":[\"latin\"],\"style\":\"normal\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"primaryFont\"}":{"id":62285,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Barlow\",\"arguments\":[{\"weight\":[\"400\",\"500\",\"600\",\"700\"],\"subsets\":[\"latin\"],\"display\":\"swap\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"secondaryFont\"}":{"id":5840,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/theme/index.tsx":{"id":7617,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/locales/localization-provider.tsx":{"id":21276,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/components/animate/motion-lazy.tsx":{"id":22434,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/components/progress-bar/progress-bar.tsx":{"id":9266,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/components/progress-bar/styles.tsx":{"id":84529,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/components/settings/drawer/settings-drawer.tsx":{"id":17209,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/components/settings/context/settings-provider.tsx":{"id":78609,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/components/settings/context/settings-context.tsx":{"id":13396,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/global.css":{"id":65142,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","5765:static/chunks/5765-1d15a0c3154d251d.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","3185:static/chunks/app/layout-b912e13e03122c39.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/app/loading.tsx":{"id":97286,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","3710:static/chunks/3710-1cf8dd37472fad50.js","8555:static/chunks/app/loading-f2dcf84569b0e731.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/error/not-found-view.tsx":{"id":17617,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","4102:static/chunks/4102-93ab62d85347926c.js","8620:static/chunks/8620-c35e0780da44e41d.js","8095:static/chunks/8095-da7366d99293f3af.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","7575:static/chunks/7575-8faa59e0d8259609.js","2724:static/chunks/2724-7a8e4b93964bb6cf.js","2042:static/chunks/2042-48ea3d3211587a1b.js","2901:static/chunks/2901-fe1d67209291a960.js","1359:static/chunks/1359-ccae5c7ff7b274da.js","9160:static/chunks/app/not-found-949f57d500756fef.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/layouts/main/index.tsx":{"id":61292,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","5227:static/chunks/5227-87e7d68fac46e81e.js","1931:static/chunks/app/page-143b9d2a5547b31e.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/_home/view/home-view.tsx":{"id":79048,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","5227:static/chunks/5227-87e7d68fac46e81e.js","1931:static/chunks/app/page-143b9d2a5547b31e.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/main/view/mainView.tsx":{"id":14393,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","4102:static/chunks/4102-93ab62d85347926c.js","8620:static/chunks/8620-c35e0780da44e41d.js","3780:static/chunks/3780-7a27a2948892ca81.js","3490:static/chunks/3490-e3ca3802bc1f6927.js","9249:static/chunks/9249-2c93705d02cf98f7.js","4255:static/chunks/4255-1f30e0a04eb7bb78.js","6527:static/chunks/6527-86b960588f4a1595.js","9147:static/chunks/9147-f2e69d887877e268.js","9996:static/chunks/9996-73f62b2d7e7a8f15.js","5029:static/chunks/app/main/page-cc0f5714fa61196d.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/main/view/completeView.tsx":{"id":15164,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","5227:static/chunks/5227-87e7d68fac46e81e.js","4102:static/chunks/4102-93ab62d85347926c.js","8620:static/chunks/8620-c35e0780da44e41d.js","7374:static/chunks/7374-47cad7277f77c472.js","5228:static/chunks/app/main/complete/page-4548737081d5e13e.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/view.tsx":{"id":63225,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","8540:static/chunks/app/components/page-ab5ee772b8eaa160.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/app/components/layout.tsx":{"id":37384,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","2686:static/chunks/app/components/layout-79a1aa51c5f48c26.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/animate-view/index.tsx":{"id":91614,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8620:static/chunks/8620-c35e0780da44e41d.js","5650:static/chunks/5650-65665c2769b526b7.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9249:static/chunks/9249-2c93705d02cf98f7.js","6446:static/chunks/6446-e5df01b4b5073d71.js","1843:static/chunks/1843-e1552e563437d45b.js","5874:static/chunks/5874-85fca0b61205ee0e.js","9147:static/chunks/9147-f2e69d887877e268.js","2901:static/chunks/2901-fe1d67209291a960.js","4062:static/chunks/app/components/animate/page-e3fca8928b423a1b.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/icons-view.tsx":{"id":32386,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","8095:static/chunks/8095-da7366d99293f3af.js","9744:static/chunks/9744-e75be31143a45b1c.js","613:static/chunks/app/components/icons/page-2dfa10d25d349c55.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/carousel-view/index.tsx":{"id":59739,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","4102:static/chunks/4102-93ab62d85347926c.js","8620:static/chunks/8620-c35e0780da44e41d.js","6931:static/chunks/6931-6b7a25c30bb179ba.js","3780:static/chunks/3780-7a27a2948892ca81.js","6527:static/chunks/6527-86b960588f4a1595.js","9147:static/chunks/9147-f2e69d887877e268.js","2901:static/chunks/2901-fe1d67209291a960.js","9996:static/chunks/9996-73f62b2d7e7a8f15.js","1343:static/chunks/app/components/carousel/page-dd72e81089ea51dd.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/form-validation-view/index.tsx":{"id":40159,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8620:static/chunks/8620-c35e0780da44e41d.js","8095:static/chunks/8095-da7366d99293f3af.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","2250:static/chunks/2250-c22835bbded65968.js","3490:static/chunks/3490-e3ca3802bc1f6927.js","2313:static/chunks/2313-f26ea4bac1f77154.js","4255:static/chunks/4255-1f30e0a04eb7bb78.js","6446:static/chunks/6446-e5df01b4b5073d71.js","7520:static/chunks/7520-cf50d260867652c5.js","5376:static/chunks/app/components/form-validation/page-c36f2767d550e809.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/count-up-view.tsx":{"id":48042,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","6553:static/chunks/6553-a8c46865ac0064d4.js","8512:static/chunks/8512-6b476f34cda20a97.js","4957:static/chunks/app/components/count-up/page-8b4ce0e0f98cdb4d.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/label-view.tsx":{"id":83998,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","8095:static/chunks/8095-da7366d99293f3af.js","9744:static/chunks/9744-e75be31143a45b1c.js","104:static/chunks/app/components/label/page-3ead80edfe150d61.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/markdown-view.tsx":{"id":86544,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","6553:static/chunks/6553-a8c46865ac0064d4.js","743:static/chunks/app/components/markdown/page-74bdd4069215c762.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/mega-menu-view.tsx":{"id":73003,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","4102:static/chunks/4102-93ab62d85347926c.js","8620:static/chunks/8620-c35e0780da44e41d.js","5650:static/chunks/5650-65665c2769b526b7.js","3780:static/chunks/3780-7a27a2948892ca81.js","7575:static/chunks/7575-8faa59e0d8259609.js","3490:static/chunks/3490-e3ca3802bc1f6927.js","2832:static/chunks/2832-3fc686d39e3e1136.js","9147:static/chunks/9147-f2e69d887877e268.js","9996:static/chunks/9996-73f62b2d7e7a8f15.js","9152:static/chunks/app/components/mega-menu/page-49ceb3b31ca25674.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/image-view.tsx":{"id":69373,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","6553:static/chunks/6553-a8c46865ac0064d4.js","4102:static/chunks/4102-93ab62d85347926c.js","1842:static/chunks/1842-2a2075299f233272.js","9147:static/chunks/9147-f2e69d887877e268.js","4083:static/chunks/app/components/image/page-ccc522c5599e99bf.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/navigation-bar-view.tsx":{"id":40672,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","8095:static/chunks/8095-da7366d99293f3af.js","7928:static/chunks/7928-3af8f78cd8fa0867.js","9744:static/chunks/9744-e75be31143a45b1c.js","1604:static/chunks/1604-b6af197aba80f0ae.js","2250:static/chunks/2250-c22835bbded65968.js","2313:static/chunks/2313-f26ea4bac1f77154.js","7073:static/chunks/7073-ca10ca0cc3348ed9.js","6183:static/chunks/app/components/navigation-bar/page-a82a38368bf2ecad.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/scroll-view.tsx":{"id":27186,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","6553:static/chunks/6553-a8c46865ac0064d4.js","5650:static/chunks/5650-65665c2769b526b7.js","1373:static/chunks/app/components/scroll/page-7c4061c362d0d47e.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/player-view.tsx":{"id":79539,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","7697:static/chunks/7697-2e343768f047e0a2.js","4188:static/chunks/4188-fa5da68ed5547aaf.js","1843:static/chunks/1843-e1552e563437d45b.js","5385:static/chunks/5385-7d8cf0f12992a7d9.js","9147:static/chunks/9147-f2e69d887877e268.js","3181:static/chunks/app/components/player/page-134a55d776e883ca.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/lightbox-view.tsx":{"id":52419,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","5227:static/chunks/5227-87e7d68fac46e81e.js","6553:static/chunks/6553-a8c46865ac0064d4.js","4102:static/chunks/4102-93ab62d85347926c.js","2250:static/chunks/2250-c22835bbded65968.js","6101:static/chunks/6101-27dc53288fed1ece.js","9147:static/chunks/9147-f2e69d887877e268.js","3906:static/chunks/app/components/lightbox/page-09928242a57b3be3.js"],"async":false},"/Users/wini/Documents/workspace/pandora/src/sections/examples/text-max-line-view.tsx":{"id":49473,"name":"*","chunks":["1771:static/chunks/1771-3f92a91c41feac9f.js","1278:static/chunks/1278-880f7e9eee4f3cc6.js","9083:static/chunks/9083-ddc856dcba52883a.js","6513:static/chunks/6513-0a311d3719ea0ae0.js","332:static/chunks/332-ee59d73a098c8b22.js","6553:static/chunks/6553-a8c46865ac0064d4.js","6287:static/chunks/app/components/text-max-line/page-d74c6f44ed0f7397.js"],"async":false}},"entryCSSFiles":{"/Users/wini/Documents/workspace/pandora/src/app/layout":["static/css/5399994f5d9ded8a.css"],"/Users/wini/Documents/workspace/pandora/src/app/loading":[],"/Users/wini/Documents/workspace/pandora/src/app/not-found":[],"/Users/wini/Documents/workspace/pandora/src/app/page":[],"/Users/wini/Documents/workspace/pandora/src/app/main/page":[],"/Users/wini/Documents/workspace/pandora/src/app/main/complete/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/layout":[],"/Users/wini/Documents/workspace/pandora/src/app/components/animate/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/icons/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/carousel/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/form-validation/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/count-up/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/label/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/markdown/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/mega-menu/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/image/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/navigation-bar/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/scroll/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/player/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/lightbox/page":[],"/Users/wini/Documents/workspace/pandora/src/app/components/text-max-line/page":[]}}
+{
+  "ssrModuleMapping": {
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/loading.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/loading.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Noto_Sans\",\"arguments\":[{\"weight\":[\"100\",\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\",\"subsets\":[\"latin\"],\"style\":\"normal\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"primaryFont\"}": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Noto_Sans\",\"arguments\":[{\"weight\":[\"100\",\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\",\"subsets\":[\"latin\"],\"style\":\"normal\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"primaryFont\"}",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Barlow\",\"arguments\":[{\"weight\":[\"400\",\"500\",\"600\",\"700\"],\"subsets\":[\"latin\"],\"display\":\"swap\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"secondaryFont\"}": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Noto_Sans\",\"arguments\":[{\"weight\":[\"100\",\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\",\"subsets\":[\"latin\"],\"style\":\"normal\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"primaryFont\"}",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/theme/index.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/theme/index.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/locales/localization-provider.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/locales/localization-provider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/progress-bar/progress-bar.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/progress-bar/progress-bar.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/progress-bar/styles.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/progress-bar/styles.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/animate/motion-lazy.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/animate/motion-lazy.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/settings/context/settings-provider.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/settings/context/settings-provider.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/settings/context/settings-context.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/settings/context/settings-context.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/settings/drawer/settings-drawer.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/settings/drawer/settings-drawer.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/sections/error/not-found-view.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/sections/error/not-found-view.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/main/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/main/page.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./src/sections/main/view/completeView.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/sections/main/view/completeView.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    }
+  },
+  "edgeSSRModuleMapping": {},
+  "clientModules": {
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/esm/client/components/error-boundary.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/esm/client/components/app-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/esm/client/components/layout-router.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/dist/esm/client/components/static-generation-searchparams-bailout-provider.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:static/chunks/app-client-internals.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/loading.tsx": {
+      "id": "(app-client)/./src/app/loading.tsx",
+      "name": "*",
+      "chunks": [
+        "app/loading:static/chunks/app/loading.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Noto_Sans\",\"arguments\":[{\"weight\":[\"100\",\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\",\"subsets\":[\"latin\"],\"style\":\"normal\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"primaryFont\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Noto_Sans\",\"arguments\":[{\"weight\":[\"100\",\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\",\"subsets\":[\"latin\"],\"style\":\"normal\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"primaryFont\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Barlow\",\"arguments\":[{\"weight\":[\"400\",\"500\",\"600\",\"700\"],\"subsets\":[\"latin\"],\"display\":\"swap\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"secondaryFont\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"src/theme/typography.ts\",\"import\":\"Barlow\",\"arguments\":[{\"weight\":[\"400\",\"500\",\"600\",\"700\"],\"subsets\":[\"latin\"],\"display\":\"swap\",\"fallback\":[\"Helvetica\",\"Arial\",\"sans-serif\"]}],\"variableName\":\"secondaryFont\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/theme/index.tsx": {
+      "id": "(app-client)/./src/theme/index.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/locales/localization-provider.tsx": {
+      "id": "(app-client)/./src/locales/localization-provider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/components/progress-bar/progress-bar.tsx": {
+      "id": "(app-client)/./src/components/progress-bar/progress-bar.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/components/progress-bar/styles.tsx": {
+      "id": "(app-client)/./src/components/progress-bar/styles.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/components/animate/motion-lazy.tsx": {
+      "id": "(app-client)/./src/components/animate/motion-lazy.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/components/settings/context/settings-provider.tsx": {
+      "id": "(app-client)/./src/components/settings/context/settings-provider.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/components/settings/context/settings-context.tsx": {
+      "id": "(app-client)/./src/components/settings/context/settings-context.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/components/settings/drawer/settings-drawer.tsx": {
+      "id": "(app-client)/./src/components/settings/drawer/settings-drawer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/global.css": {
+      "id": "(app-client)/./src/global.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/sections/error/not-found-view.tsx": {
+      "id": "(app-client)/./src/sections/error/not-found-view.tsx",
+      "name": "*",
+      "chunks": [
+        "app/not-found:static/chunks/app/not-found.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/main/page.tsx": {
+      "id": "(app-client)/./src/app/main/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/main/page:static/chunks/app/main/page.js"
+      ],
+      "async": false
+    },
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/sections/main/view/completeView.tsx": {
+      "id": "(app-client)/./src/sections/main/view/completeView.tsx",
+      "name": "*",
+      "chunks": [
+        "app/main/complete/page:static/chunks/app/main/complete/page.js"
+      ],
+      "async": false
+    }
+  },
+  "entryCSSFiles": {
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/loading": [],
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/layout": [
+      "static/css/app/layout.css"
+    ],
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/not-found": [],
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/main/page": [],
+    "/Users/chonglyechang/Documents/Works/products/pandora/src/app/main/complete/page": []
+  }
+}

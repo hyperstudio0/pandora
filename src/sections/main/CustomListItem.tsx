@@ -1,8 +1,9 @@
 import { Box, ListItem, Typography } from '@mui/material';
+import {ReactNode} from "react";
 
 // ----------------------------------------------------------------------
 interface CustomListItemProps {
-  label: string;
+  label: string | ReactNode;
   value: string;
   isFlex?: boolean;
 }

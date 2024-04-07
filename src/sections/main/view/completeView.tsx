@@ -23,7 +23,7 @@ import TextMaxLine from '../../../components/text-max-line';
 const sampleData = {
   label: 'SuperRare',
   thumbnail: '/assets/images/sample/image04.svg',
-  title: 'Pixel Mecha #7560',
+  title: 'NEW GAME #1',
 }
 
 export default function CompleteView() {

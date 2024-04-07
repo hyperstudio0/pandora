@@ -1,0 +1,35 @@
+{
+  "mint": {
+    "owner": "xpla15xr2jydh9smxpx9nalgpfvl228xk453k7tqhsz",
+    "amount": 1,
+    "token_id": "PDR #6",
+    "extension": {
+      "name": "XPLA Hero Armor 2",
+      "description": "This is an example of XPLA’s Pandora Protocol item.",
+      "image": "https://nv-imge-s3.s3.ap-northeast-2.amazonaws.com/pandora/image02.svg",
+      "attributes": [
+        {
+          "value": "Hero",
+          "trait_type": "rarity"
+        },
+        {
+          "value": "10",
+          "trait_type": "price"
+        },
+        {
+          "value": "52",
+          "trait_type": "Defense"
+        },
+        {
+          "value": "30",
+          "trait_type": "Durability"
+        },
+        {
+          "value": "1",
+          "trait_type": "Weight"
+        }
+      ]
+    },
+    "recipient": "xpla15xr2jydh9smxpx9nalgpfvl228x"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "mint": {
+    "owner": "xpla15xr2jydh9smxpx9nalgpfvl228xk453k7tqhsz",
+    "amount": 1,
+    "token_id": "NEW GAME #1",
+    "extension": {
+      "name": "XPLA New Game NFT 1",
+      "description": "This is an example of XPLA’s Pandora Protocol item.",
+      "image": "https://nv-imge-s3.s3.ap-northeast-2.amazonaws.com/pandora/image08.svg",
+      "attributes": [
+        {
+          "value": "SuperRare",
+          "trait_type": "rarity"
+        },
+        {
+          "value": "20",
+          "trait_type": "price"
+        },
+        {
+          "value": "40",
+          "trait_type": "Power"
+        }
+      ]
+    },
+    "recipient": "xpla15xr2jydh9smxpx9nalgpfvl228x"
+  }
+}
