@@ -14,7 +14,7 @@ async function main() {
     // await hre.run('compile');
 
     // We get the contract to deploy
-    const NFT = await hre.ethers.getContractFactory("PandoraSmartContract.sol");
+    const NFT = await hre.ethers.getContractFactory("PDRSmartContract2");
     const nft = await NFT.deploy();
 
     await nft.deployed();

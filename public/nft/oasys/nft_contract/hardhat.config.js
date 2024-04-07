@@ -33,17 +33,16 @@ module.exports = {
     // }
     hub: {
       url: "https://rpc.testnet.oasys.games",
-      // url: `https://rpc-mumbai.maticvigil.com/v1/${POLYGON_TEST_API_KEY}`,
       chainId: 9372,
       // The address to use as default sender. If not present the first account of the node is used
       //from: ,
       // Its value should be "auto" or a number. If a number is used, it will be the gas limit used by default in every transaction.
       // If "auto" is used, the gas limit will be automatically estimated. Default value: "auto"
-      // gas: "auto",
-      gas: 2500000,
+      gas: "auto",
+      // gas: 2500000,
       // Its value should be "auto" or a number. This parameter behaves like gas. Default value: "auto"
-      // gasPrice: "auto",
-      gasPrice: 25000000000,
+      gasPrice: "auto",
+      // gasPrice: 25000000000,
       // A number used to multiply the results of gas estimation to give it some slack due to the uncertainty 
       // of the estimation process. Default value: 1
       //gasMultiplier: 1,

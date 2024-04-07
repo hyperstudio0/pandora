@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
@@ -8,7 +9,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC1155/IERC1155Receiver.sol";
 import "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol";
 
-contract PandoraSmartContract is Ownable, IERC1155Receiver, IERC721Receiver {
+contract PDRSmartContract is Ownable, IERC1155Receiver, IERC721Receiver {
     using SafeERC20 for IERC20;
 
     enum TokenType {ERC721, ERC1155}
@@ -91,17 +92,17 @@ contract PandoraSmartContract is Ownable, IERC1155Receiver, IERC721Receiver {
         require(IERC721(tokenAddress).ownerOf(tokenId) == address(this), "Token must be owned by the contract");
         require(!isTokenIndex(tokenAddress, tokenId), "Token already registered.");
         tokens.push(Token({
-        tokenType : TokenType.ERC721,
-        tokenId : tokenId,
-        tokenAddress : tokenAddress,
-        round : round,
-        amount : 0,
-        price : price,
-        isWhitelisted : isWhitelisted,
-        maxPurchase : maxPurchase,
-        purchased : 0,
-        startTime : startTime,
-        endTime : endTime
+            tokenType : TokenType.ERC721,
+            tokenId : tokenId,
+            tokenAddress : tokenAddress,
+            round : round,
+            amount : 0,
+            price : price,
+            isWhitelisted : isWhitelisted,
+            maxPurchase : maxPurchase,
+            purchased : 0,
+            startTime : startTime,
+            endTime : endTime
         }));
         emit TokenAdded(tokenId, tokenAddress, TokenType.ERC1155, price, isWhitelisted, maxPurchase, startTime, endTime);
     }
@@ -111,17 +112,17 @@ contract PandoraSmartContract is Ownable, IERC1155Receiver, IERC721Receiver {
             require(IERC721(tokenAddress).ownerOf(tokenIds[i]) == address(this), "Token must be owned by the contract");
             require(!isTokenIndex(tokenAddress, tokenIds[i]), "Token already registered.");
             tokens.push(Token({
-            tokenType : TokenType.ERC721,
-            tokenId : tokenIds[i],
-            tokenAddress : tokenAddress,
-            amount : 0,
-            price : price,
-            isWhitelisted : isWhitelisted,
-            maxPurchase : maxPurchase,
-            purchased : 0,
-            startTime : startTime,
-            endTime : endTime,
-            round : round
+                tokenType : TokenType.ERC721,
+                tokenId : tokenIds[i],
+                tokenAddress : tokenAddress,
+                amount : 0,
+                price : price,
+                isWhitelisted : isWhitelisted,
+                maxPurchase : maxPurchase,
+                purchased : 0,
+                startTime : startTime,
+                endTime : endTime,
+                round : round
             }));
             emit TokenAdded(tokenIds[i], tokenAddress, TokenType.ERC721, price, isWhitelisted, maxPurchase, startTime, endTime);
         }
@@ -145,28 +146,8 @@ contract PandoraSmartContract is Ownable, IERC1155Receiver, IERC721Receiver {
         require(IERC1155(tokenAddress).balanceOf(address(this), tokenId) >= amount, "Token must be deposited to the contract");
         require(!isTokenIndex(tokenAddress, tokenId), "Token already registered.");
         tokens.push(Token({
-        tokenType : TokenType.ERC1155,
-        tokenId : tokenId,
-        tokenAddress : tokenAddress,
-        amount : amount,
-        price : price,
-        isWhitelisted : isWhitelisted,
-        maxPurchase : maxPurchase,
-        purchased : 0,
-        startTime : startTime,
-        endTime : endTime,
-        round : round
-        }));
-        emit TokenAdded(tokenId, tokenAddress, TokenType.ERC1155, price, isWhitelisted, maxPurchase, startTime, endTime);
-    }
-
-    function addTokensERC1155(uint256[] memory tokenIds, address tokenAddress, uint8 round, uint256 amount, uint256 price, bool isWhitelisted, uint256 maxPurchase, uint256 startTime, uint256 endTime) external onlyOwner {
-        for (uint256 i = 0; i < tokenIds.length; i++) {
-            require(IERC1155(tokenAddress).balanceOf(address(this), tokenIds[i]) >= amount, "Token must be deposited to the contract");
-            require(!isTokenIndex(tokenAddress, tokenIds[i]), "Token already registered.");
-            tokens.push(Token({
             tokenType : TokenType.ERC1155,
-            tokenId : tokenIds[i],
+            tokenId : tokenId,
             tokenAddress : tokenAddress,
             amount : amount,
             price : price,
@@ -176,6 +157,26 @@ contract PandoraSmartContract is Ownable, IERC1155Receiver, IERC721Receiver {
             startTime : startTime,
             endTime : endTime,
             round : round
+        }));
+        emit TokenAdded(tokenId, tokenAddress, TokenType.ERC1155, price, isWhitelisted, maxPurchase, startTime, endTime);
+    }
+
+    function addTokensERC1155(uint256[] memory tokenIds, address tokenAddress, uint8 round, uint256 amount, uint256 price, bool isWhitelisted, uint256 maxPurchase, uint256 startTime, uint256 endTime) external onlyOwner {
+        for (uint256 i = 0; i < tokenIds.length; i++) {
+            require(IERC1155(tokenAddress).balanceOf(address(this), tokenIds[i]) >= amount, "Token must be deposited to the contract");
+            require(!isTokenIndex(tokenAddress, tokenIds[i]), "Token already registered.");
+            tokens.push(Token({
+                tokenType : TokenType.ERC1155,
+                tokenId : tokenIds[i],
+                tokenAddress : tokenAddress,
+                amount : amount,
+                price : price,
+                isWhitelisted : isWhitelisted,
+                maxPurchase : maxPurchase,
+                purchased : 0,
+                startTime : startTime,
+                endTime : endTime,
+                round : round
             }));
             emit TokenAdded(tokenIds[i], tokenAddress, TokenType.ERC1155, price, isWhitelisted, maxPurchase, startTime, endTime);
         }
