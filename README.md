@@ -15,6 +15,9 @@
 ## Run
 http://localhost:8003
 
+## NFT Path
+- public/nft/xpla
+- public/nft/xpla
 
 ## XPLA Smart Contract
 ### Game Item Contract : xpla10ass0huls9u5rctnyhzvh5jg48qsg7cdfxw34juxd3js05fahraq87c7c7
